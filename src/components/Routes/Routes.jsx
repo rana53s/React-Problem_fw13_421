@@ -10,8 +10,8 @@ export const Router = () => {
         <>
             <Routes>
                 <Route exact path="/home" element={<Home />} />
-                <Route exact path="/cities" element={<Cities/>} />
-                <Route exact path="/countries" element={<Countries/>} />
+                <Route exact path="/add-city" element={<Cities/>} />
+                <Route exact path="/add-country" element={<Countries/>} />
             </Routes>
         </>
     );
