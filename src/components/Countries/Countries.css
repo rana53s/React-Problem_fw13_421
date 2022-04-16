@@ -1,0 +1,21 @@
+h2 {
+    color: teal;
+    margin-top:10px;
+}
+
+.countryDetails {
+    width: 30%;
+    height: 40%;
+    background-color: tomato;
+    margin: auto;
+    padding: 0 10px;
+    border-radius: 3px;
+}
+
+.addCountry input{
+    margin: 10px;
+    padding: 8px;
+    border-radius: 6px;
+    border: none;
+    background-color: whitesmoke;
+}

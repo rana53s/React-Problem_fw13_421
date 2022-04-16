@@ -1,0 +1,10 @@
+.homePage {
+    margin: auto;
+    width: 50%;
+    height: 60%;
+}
+
+.homePage table {
+    margin: auto;
+    border: none;
+}
